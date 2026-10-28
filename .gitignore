@@ -1,0 +1,30 @@
+# dependencies
+/node_modules
+/.npm-cache
+
+# next
+/.next
+/out
+/outputs
+
+# production
+/build
+/dist
+/.qa
+
+# local
+.DS_Store
+*.pem
+.env*
+!.env.example
+Saad Filali _ LinkedIn.html
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
